@@ -2,7 +2,7 @@
 
 Este repositorio contiene la implementación de los tres primeros experimentos descritos en el paper Learning to Reinforcement Learn de Wang et al. (2017). 
 
-### Archivos
+## Archivos
 
 * **A2C_Meta_Bandit.ipynb**: Implementación de los Experimentos 1 y 2, donde se entrenan y evalúan los bandits utilizando el algoritmo Advantage Actor-Critic (A2C) con LSTM.
 
